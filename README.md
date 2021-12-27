@@ -1,8 +1,12 @@
 This is a [Next.js](https://nextjs.org/) movie project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 using nextjs tailwind css TMDB api
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/17965517/147494715-f7146371-358e-4e30-9708-8faaaf1fe517.gif)
+
+
+https://user-images.githubusercontent.com/17965517/147494368-693b60cc-6439-4328-bdb2-45a559a2e7c7.mp4
 ![alt text](https://user-images.githubusercontent.com/17965517/147493950-32cb10b5-66db-4d37-8965-512a7717af3c.png)
 ![alt text](https://user-images.githubusercontent.com/17965517/147493945-e7f0dfd1-c0da-4dbb-8a22-901c457d93e8.png) ![alt text](https://user-images.githubusercontent.com/17965517/147493948-c7555882-d91c-497b-9fd9-cf9b38ee6db5.png)
-
 ## Getting Started
 
 First, run the development server:
@@ -14,7 +18,6 @@ yarn dev
 ```
 
 
-https://user-images.githubusercontent.com/17965517/147494368-693b60cc-6439-4328-bdb2-45a559a2e7c7.mp4
 
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
